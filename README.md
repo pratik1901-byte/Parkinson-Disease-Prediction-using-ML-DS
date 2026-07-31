@@ -26,7 +26,7 @@ The model is trained on the **Oxford Parkinson's Disease Detection Dataset** (`p
 |---|---|
 | Instances | 195 voice recordings from 31 people (23 with Parkinson's) |
 | Attributes | 23 (22 features + 1 target) |
-| Target | `status` — `1` = Parkinson's-- `0` = Healthy |
+| Target | `status` — `1` = Parkinson's & `0` = Healthy |
 | Missing values | None |
 
 **Feature groups used for prediction:**
